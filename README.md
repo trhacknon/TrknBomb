@@ -13,6 +13,8 @@ This Script is Only For Educational Purposes or To Prank.
 
  That's All !!!
  This Bomber Was Created By SpeedX
+ 
  For Any Queries Mail Me!!!
            Mail: ggspeedx29@gmail.com
+           
   Facebook Page: https://www.facebook.com/GyanaTech
