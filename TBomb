@@ -92,4 +92,12 @@ start=6
 clear
 fi
 done
-
+clear
+figlet SMSBomber
+echo -e "\e[1;34m Created By \e[0m"
+toilet -f mono12 -F gay SpeedX
+echo -e "\e[4;34m This Bomber Was Created By SpeedX(Gyanaranjan Sahoo) \e[0m"
+echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
+echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
+echo -e "\e[4;32m  Facebook Page: https://www.facebook.com/GyanaTech \e[0m"
+echo " "
