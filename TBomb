@@ -37,11 +37,11 @@ read num
 echo "Enter Message To Send:"
 read mess
 echo "Number Of Times To Send (Bomb):"
-read num
+read n
 termux-vibrate -f
 termux-toast Bombing Started !!!
 termux-sms-send -n $num $mess
-for (( i=1;i<=$n;i++ ))
+for (( i=0;i < $n;i++ ))
 do
 termux-sms-send -n $num $mess
 done
