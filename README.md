@@ -1,3 +1,5 @@
+This Project is not maintained By Me For Some Time !!!
+
 # TBomb
 This is a SMS Bomber for Termux an Terminal Emulator for Android..
 
@@ -37,7 +39,11 @@ chmod +x TBomb
 Now the Script Will Execute..
 
 
+For Any Queries Join Me On WhatsApp!!!
+          Group Link: http://bit.do/thespeedxgit
+  <a href="http://bit.do/thespeedxgit">Join My Group</a>
 
- For Any Queries Mail Me!!!
            Mail: ggspeedx29@gmail.com
-  Facebook Page: https://www.facebook.com/GyanaTech
+
+           YouTube Channel: https://www.youtube.com/c/GyanaTech
+  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
