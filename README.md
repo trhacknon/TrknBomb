@@ -25,7 +25,7 @@ cd TBomb
 
 chmod +x TBomb
 
-./TBomb
+./TBomb.sh
 
 Now the Script Will Execute..
 
