@@ -83,20 +83,20 @@ clear
 apt install git
 echo -e "\e[1;34m Downloading Latest Files..."
 git clone https://github.com/TheSpeedX/TBomb
-if [[ -s TBomb/TBomb ]];then
+if [[ -s TBomb/TBomb.sh ]];then
 cd TBomb
 cp -r -f * .. > temp
 cd ..
 rm -rf  TBomb >> temp
 rm update.speedx >> temp
 rm temp
-chmod +x TBomb
+chmod +x TBomb.sh
 fi
 echo -e "\e[1;32m TBomb Will Restart Now..."
 echo -e "\e[1;32m All The Required Packages Will Be Installed..."
 echo -e "\e[1;34m Press Enter To Proceed To Restart..."
 read a6
-./TBomb
+./TBomb.sh
 exit
 elif [ $ch -eq 4 ];then
 
