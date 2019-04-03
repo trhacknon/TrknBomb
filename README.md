@@ -5,6 +5,9 @@ This Script is Only For Educational Purposes or To Prank.
  Do not Use This To Harm Others.
  I Am Not Responsible For The Misuse Of The Script.
 
+The Script Requires A working Net Connection To Work..
+No Balance will be deducted for using this script to send SMS...
+
  Make Sure To Update it for New Versions...
 
  That's All !!!
