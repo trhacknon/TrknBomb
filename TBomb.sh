@@ -80,7 +80,7 @@ read a3
 clear
 elif [ $ch -eq 3 ];then
 clear
-apt install git
+apt install git -y
 echo -e "\e[1;34m Downloading Latest Files..."
 git clone https://github.com/TheSpeedX/TBomb
 if [[ -s TBomb/TBomb.sh ]];then
