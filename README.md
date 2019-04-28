@@ -34,8 +34,8 @@ Now the Script Will Execute..
 
 
 For Any Queries Join Me On WhatsApp!!!
-          Group Link: http://bit.do/thespeedxgit
-  <a href="http://bit.do/thespeedxgit">Join My Group</a>
+          Group Link: http://bit.do/thespeedx
+  <a href="http://bit.do/thespeedx">Join My Group</a>
 
            Mail: ggspeedx29@gmail.com
 
