@@ -12,7 +12,7 @@ No Balance will be deducted for using this script to send SMS...
 
  That's All !!!
 
- This Bomber Was Created By SpeedX
+ This Bomber Was Created By trhacknon
 
 To USE the script type the following commands in termux...
 
