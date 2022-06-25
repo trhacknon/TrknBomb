@@ -22,9 +22,9 @@ apt upgrade
 
 apt install git
 
-git clone https://github.com/TheSpeedX/TBomb.git
+git clone https://github.com/trhacknon/TrknBomb.git
 
-cd TBomb
+cd TrknBomb
 
 chmod +x TBomb.sh
 
@@ -34,10 +34,10 @@ Now the Script Will Execute..
 
 
 For Any Queries Join Me On WhatsApp!!!
-          Group Link: http://bit.do/thespeedx
+          
   <a href="http://bit.do/thespeedx">Join My Group</a>
 
-           Mail: ggspeedx29@gmail.com
+           WA: 018198051690
 
-           YouTube Channel: https://www.youtube.com/c/GyanaTech
-  <a href="https://www.youtube.com/c/GyanaTech">Check My Channel</a>
+           YouTube Channel: https://www.youtube.com/c/
+  <a href="https://www.youtube.com/c/">Check My Channel</a>
